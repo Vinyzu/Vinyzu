@@ -5,6 +5,9 @@
 
 <details>
     <summary>Coding 🪄</summary>
+<div> 
+ <h2 align="center">  </h2> 
+ </div>
 ```js
 print("test")
 ```
