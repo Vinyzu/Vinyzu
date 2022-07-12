@@ -4,10 +4,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/935224495126487150?borderRadius=20px&bg=1c1c1c&idleMessage=Botting%20your%20Mom)](https://discord.com/users/935224495126487150)
 
 <details>
-    <summary>Coding 🪄</summary>
-<div> 
- <h2 align="center"> Wanna learn more about my Coding Skills? </h2> 
- </div>
+    <summary>Coding </summary>
 
 ```py
 print("test")
