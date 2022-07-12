@@ -5,11 +5,7 @@
 
 <details>
     <summary>Coding 🪄</summary>
-<div> 
-<h2 align="center"> Wanna learn more something about me? </h2> 
-</div>
-
-```js
+```py
 print("test")
 ```
 </details>
