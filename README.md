@@ -1,15 +1,10 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=5CD8F7&center=true&vCenter=true&lines=Whatsup%2C+I'm+Vinyzu!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-<p align="center"> 
-    <samp><br> 
-    I am mostly interested im Botting!
-    <br> 
-    I write all my Bots in Python, but i'm also learning HTML, CSS and a little bit of Javascript. <br>
-    Learn more about me:
-    <br>
-    </samp>
-</p>
+<div align="center"> 
+ <h1 align="center">I'm mostly interested in Botting!</h1> 
+ <h4 align="center">I write all my Bots in Python, but i'm also learning HTML, CSS and a little bit of Javascript. <br> Learn more about me:</h4> 
+ </div>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/935224495126487150?borderRadius=20px&bg=1c1c1c&idleMessage=Botting%20your%20Mom)](https://discord.com/users/935224495126487150)
 
@@ -42,7 +37,7 @@ class Coding(Vinyzu):
 </details>
 
 
-<p align="center">Readme inspired by xTekky</p>
+# Readme inspired by xTekky
 <!--
 **Vinyzu/Vinyzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
