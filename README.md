@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/935224495126487150?borderRadius=20px&idleMessage=Botting%20your%20Mommy)](https://discord.com/users/935224495126487150)
+[![Discord Presence](https://lanyard.cnrad.dev/api/935224495126487150?borderRadius=20px&bg=D4D9DC&idleMessage=Botting%20your%20Mommy)](https://discord.com/users/935224495126487150)
 
 <!--
 **Vinyzu/Vinyzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
