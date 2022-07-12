@@ -1,10 +1,11 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=5CD8F7&center=true&vCenter=true&lines=Whatsup%2C+I'm+Vinyzu!+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-
-<div align="center"> 
- <h1 align="center">I'm mostly interested in Botting!</h1> 
- <h4 align="center">I write all my Bots in Python, but i'm also learning HTML, CSS and a little bit of Javascript. <br> Learn more about me:</h4> 
- </div>
+## I'm mostly interested in Botting!</h1> 
+```
+I write all my Bots in Python,
+but i'm also learning HTML, CSS 
+and a little bit of Javascript.
+Learn more about me:
+```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/935224495126487150?borderRadius=20px&bg=1c1c1c&idleMessage=Botting%20your%20Mom)](https://discord.com/users/935224495126487150)
 
@@ -28,6 +29,7 @@ class Coding(Vinyzu):
         self.specialities = ["Botting", "Obfuscation", "Scraping"]     
 
     def projects(self):
+        self.current = "Discord Browser Generator" # (Focus on realistic emulation/spoofing)
         self.discord = ["Tokify (Early Versions)", "Promo Redeemer v1/v2", "Booster"]
         self.twitch = "Auto Registrator"
         self.spotify = "MjolnirAiO"
@@ -36,19 +38,32 @@ class Coding(Vinyzu):
 ```
 </details>
 
+<details>
+    <summary>Myself 🙋‍♂️</summary>
 
-# Readme inspired by xTekky
-<!--
-**Vinyzu/Vinyzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```py
+from vinyzu import Person
+import world_wide_web as www
 
-Here are some ideas to get you started:
+class Myself(Person):
+    def __init__(self):
+        super.__init__()
+    
+    def life(self):
+        self.age = 16
+        self.languages = ["English", "German"]
+        self.location = www.Internet
+        self.fun_fact = "My first freelancing job was automating invoices for animal foods."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def contact(self):
+        self.discord = "Vinyzu#1470"
+        self.server = "https://discord.gg/NurPCR25uX"
+        self.donations = "https://ko-fi.com/vinyzu"
+        self.freelancing = self.discord
+        self.collaborations = self.discord
+```
+</details>
+<br>
+
+
+##### Readme inspired by xTekky
