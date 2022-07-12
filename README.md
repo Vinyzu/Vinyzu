@@ -5,11 +5,9 @@
 
 <details>
     <summary>Coding 🪄</summary>
-    <p>
-        ```python
-           print("test")
-        ```
-    </p>
+    ```python
+    print("test")
+    ```
 </details>
 
  
