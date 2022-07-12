@@ -1,11 +1,11 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=5CD8F7&center=true&vCenter=true&lines=Whatsup%2C+I'm+Vinyzu!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/935224495126487150?borderRadius=20px&bg=1c1c1c)](https://discord.com/users/935224495126487150)
+[![Discord Presence](https://lanyard.cnrad.dev/api/935224495126487150?borderRadius=20px&bg=1c1c1c&idleMessage=Botting%20your%20Mom)](https://discord.com/users/935224495126487150)
 
 <details>
     <summary>Coding 🪄</summary>
-```py
+```js
 print("test")
 ```
 </details>
