@@ -20,20 +20,21 @@ class Coding(Vinyzu):
         super.__init__()
     
     def languages(self):
-        self.expert = "Python"
-        self.intermediate = ["HTML", "CSS"]
-        self.beginner = "Javascript"
+        self.expert = ("Python", "HTML", "CSS")
+        self.intermediate = "Javascript"
+        self.beginner = "C++"
 
     def interests(self):
-        self.enviroment = "Atom" #R.I.P
-        self.specialities = ["Botting", "Obfuscation", "Scraping"]     
+        self.enviroment = ("PyCharm", "VSCode")
+        self.specialities = ("Automation", "Botting", "Obfuscation", "Scraping")     
 
     def projects(self):
-        self.current = "Discord Browser Generator" # (Focus on realistic emulation/spoofing)
-        self.discord = ["Tokify (Early Versions)", "Promo Redeemer v1/v2", "Booster"]
+        self.current = ("Botright", "reCognizer")
+        self.automation = ("chrome-fingerprints", "reCognizer")
+        self.discord = ("Discord Browser Generator", "Tokify (Early Versions)", "Promo Redeemer v1/v2", "Booster")
         self.twitch = "Auto Registrator"
-        self.spotify = "MjolnirAiO"
-        self.hcaptcha = "Bypass"
+        self.music = ("Spotify", "Tidal", "Deezer", "Youtube Music", "Soundcloud", "Amazon Music")
+        self.hcaptcha = ("Bypass", "HSW Generator")
 
 ```
 </details>
@@ -50,14 +51,14 @@ class Myself(Person):
         super.__init__()
     
     def life(self):
-        self.age = 16
+        self.age = 18
         self.languages = ["English", "German"]
         self.location = www.Internet
         self.fun_fact = "My first freelancing job was automating invoices for animal foods."
 
     def contact(self):
-        self.discord = "Vinyzu#1470"
-        self.server = "https://discord.gg/NurPCR25uX"
+        self.discord = "@vinyzu"
+        self.server = "https://discord.gg/FTcnNHkqa7"
         self.donations = "https://ko-fi.com/vinyzu"
         self.freelancing = self.discord
         self.collaborations = self.discord
